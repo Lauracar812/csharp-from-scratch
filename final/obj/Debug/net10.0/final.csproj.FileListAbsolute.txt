@@ -1,0 +1,15 @@
+C:\proj\new_copy\final\obj\Debug\net10.0\final.GeneratedMSBuildEditorConfig.editorconfig
+C:\proj\new_copy\final\obj\Debug\net10.0\final.AssemblyInfoInputs.cache
+C:\proj\new_copy\final\obj\Debug\net10.0\final.AssemblyInfo.cs
+C:\proj\new_copy\final\obj\Debug\net10.0\final.csproj.CoreCompileInputs.cache
+C:\proj\new_copy\final\obj\Debug\net10.0\final.sourcelink.json
+C:\proj\new_copy\final\bin\Debug\net10.0\final.exe
+C:\proj\new_copy\final\bin\Debug\net10.0\final.deps.json
+C:\proj\new_copy\final\bin\Debug\net10.0\final.runtimeconfig.json
+C:\proj\new_copy\final\bin\Debug\net10.0\final.dll
+C:\proj\new_copy\final\bin\Debug\net10.0\final.pdb
+C:\proj\new_copy\final\obj\Debug\net10.0\final.dll
+C:\proj\new_copy\final\obj\Debug\net10.0\refint\final.dll
+C:\proj\new_copy\final\obj\Debug\net10.0\final.pdb
+C:\proj\new_copy\final\obj\Debug\net10.0\final.genruntimeconfig.cache
+C:\proj\new_copy\final\obj\Debug\net10.0\ref\final.dll

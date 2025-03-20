@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace itm.csharp.basic
+{
+    class Program
+    {
+        static void Main()
+        {
+            Menu.MostrarMenu();
+        }
+    }
+}
+
